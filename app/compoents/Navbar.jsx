@@ -27,7 +27,7 @@ const Navbar = () => {
             return (
               <li
                 key={link.path}
-                className="flex items-center gap-1 flex-col"
+                className="flex items-center gap-0.5 flex-col"
               >
                 <Link
                   href={link.path}

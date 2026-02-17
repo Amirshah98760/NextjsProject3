@@ -3,7 +3,7 @@
 
     const page = () => {
     return (
-        <div className="flex items-center justify-center min-h-screen flex-col gap-2 border border-amber-300" >
+        <div className="flex items-center  min-h-screen flex-col gap-2 mb-10" >
         <h1 className="text-3xl font-bold mt-30">About Page</h1>
         <p className="description">
             This is the about page of the Next.js application.
