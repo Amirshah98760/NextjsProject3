@@ -3,8 +3,8 @@ import Link from 'next/link'
 
 const page = () => {
   return (
-    <div className="flex items-center justify-center h-screen flex-col gap-2 border border-amber-300" >
-     <form >
+    <div className="flex items-center justify-center h-screen flex-col gap-2" >
+     <form  className='border border-gray-300 py-10 px-6 shadow rounded-2xl  flex flex-col'>
 
         <h1 className="text-3xl font-bold mb-3 text-center">Login Page</h1>
         <p className="mb-4 text-center">

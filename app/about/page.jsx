@@ -3,8 +3,89 @@
 
     const page = () => {
     return (
-        <div className="flex items-center justify-center h-screen flex-col gap-2 border border-amber-300" >
-        <h1 className="text-3xl font-bold">About Page</h1>
+        <div className="flex items-center justify-center min-h-screen flex-col gap-2 border border-amber-300" >
+        <h1 className="text-3xl font-bold mt-30">About Page</h1>
+        <p className="description">
+            This is the about page of the Next.js application.
+        </p>
+        <p className="description">
+            This is the about page of the Next.js application.
+        </p>
+        <p className="description">
+            This is the about page of the Next.js application.
+        </p>
+        <p className="description">
+            This is the about page of the Next.js application.
+        </p>
+        <p className="description">
+            This is the about page of the Next.js application.
+        </p>
+        <p className="description">
+            This is the about page of the Next.js application.
+        </p>
+        <p className="description">
+            This is the about page of the Next.js application.
+        </p>
+        <p className="description">
+            This is the about page of the Next.js application.
+        </p>
+        <p className="description">
+            This is the about page of the Next.js application.
+        </p>
+        <p className="description">
+            This is the about page of the Next.js application.
+        </p>
+        <p className="description">
+            This is the about page of the Next.js application.
+        </p>
+        <p className="description">
+            This is the about page of the Next.js application.
+        </p>
+        <p className="description">
+            This is the about page of the Next.js application.
+        </p>
+        <p className="description">
+            This is the about page of the Next.js application.
+        </p>
+        <p className="description">
+            This is the about page of the Next.js application.
+        </p>
+        <p className="description">
+            This is the about page of the Next.js application.
+        </p>
+        <p className="description">
+            This is the about page of the Next.js application.
+        </p>
+        <p className="description">
+            This is the about page of the Next.js application.
+        </p>
+        <p className="description">
+            This is the about page of the Next.js application.
+        </p>
+        <p className="description">
+            This is the about page of the Next.js application.
+        </p>
+        <p className="description">
+            This is the about page of the Next.js application.
+        </p>
+        <p className="description">
+            This is the about page of the Next.js application.
+        </p>
+        <p className="description">
+            This is the about page of the Next.js application.
+        </p>
+        <p className="description">
+            This is the about page of the Next.js application.
+        </p>
+        <p className="description">
+            This is the about page of the Next.js application.
+        </p>
+        <p className="description">
+            This is the about page of the Next.js application.
+        </p>
+        <p className="description">
+            This is the about page of the Next.js application.
+        </p>
         <p className="description">
             This is the about page of the Next.js application.
         </p>

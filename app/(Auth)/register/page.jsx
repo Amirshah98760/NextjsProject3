@@ -4,7 +4,7 @@ import Link from 'next/link'
 const page = () => {
   return (
     <div className="flex items-center justify-center h-screen flex-col gap-2 border border-amber-300" >
-     <form className='max-w-2xl'>
+     <form className='max-w-2xl flex flex-col gap-4 border border-gray-300 py-10 px-6 shadow rounded-2xl mt-20'>
 
         <h1 className="text-3xl font-bold mb-2 text-center">Register Page</h1>
         <p className="mb-4 text-center">
@@ -31,13 +31,13 @@ const page = () => {
         >
           Register
         </button>
-     </form>
-      <h2>
+      <h2 className="text-center">
    If you already have an account, {" "}
       <Link href="/login" className='text-blue-700'>
      Login
       </Link>
       </h2>
+     </form>
     </div>
   )
 }
